@@ -4,7 +4,8 @@
   "description": "jule version 2",
   "main": "jule.js",
   "scripts": {
-    "start": "nodemon src/jule.js"
+    "start": "nodemon src/jule.js",
+    "test":"node src/jule.js"
   },
   "repository": {
     "type": "git",
