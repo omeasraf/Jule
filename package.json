@@ -1,0 +1,37 @@
+{
+  "name": "jule",
+  "version": "2.0.0",
+  "description": "jule version 2",
+  "main": "jule.js",
+  "scripts": {
+    "start": "nodemon src/jule.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jule"
+  },
+  "keywords": [
+    "jule",
+    "web scraper",
+    "crawler"
+  ],
+  "author": "Ome Asraf",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.0",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "got": "^11.5.1",
+    "mongoose": "^5.9.16",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "user-agents": "^1.0.559",
+    "uuid": "^8.3.1"
+  }
+}
