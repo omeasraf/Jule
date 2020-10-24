@@ -1,8 +1,6 @@
 # Jule
 Crawl the web for links
 
-[![Build Status](https://api.travis-ci.org/omeasraf/Jule.svg?branch=master)](https://travis-ci.org/omeasraf/Jule)
-
 Jule crawls a predefined list of sites to find helpul information and links
 
   - You decide which sites Jule crawls
